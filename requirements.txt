@@ -1,0 +1,6 @@
+streamlit>=1.30
+requests
+Pillow
+python-dotenv
+streamlit-image-comparison
+google-genai>=1.0.0
